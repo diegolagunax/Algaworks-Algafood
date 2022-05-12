@@ -16,7 +16,7 @@ public class Cozinha {
 	@GeneratedValue(strategy = GenerationType.IDENTITY) // auto incremento no banco
 	private Long id;
 	
-	@Column(name= "nom_cozinha")
+	
 	private String nome;
 	
 	

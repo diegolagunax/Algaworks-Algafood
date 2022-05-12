@@ -19,7 +19,7 @@ public class Restaurante {
 	@GeneratedValue(strategy = GenerationType.IDENTITY) // auto incremento no banco
 	private Long id;
 	
-	@Column(name= "nom_restaurante")
+	
 	private String Nome;
 	
 	@Column(name= "taxa_frete")

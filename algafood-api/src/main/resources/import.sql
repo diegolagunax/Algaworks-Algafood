@@ -1,2 +1,2 @@
-insert into cozinha (nom_cozinha) values ('Tailandesa')
-insert into cozinha (nom_cozinha) values ('Indiana')
+insert into cozinha (nome) values ('Tailandesa')
+insert into cozinha (nome) values ('Indiana')
